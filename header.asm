@@ -3,7 +3,7 @@
 ;	SYSTEM: Headers
 ;	ver.1.77 (x32)
 ;	(c) Kyiv, Ruslan FoXx
-;   09 September 2025
+;09 September 2025
 ;------------------------------------------------
 ;       * * *  Get Status SocketPort  * * *
 ;------------------------------------------------
